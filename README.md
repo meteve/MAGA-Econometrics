@@ -1,7 +1,7 @@
 # MAGA-Econometrics
 
-Sujet de tutoriel pour le projet d'Econométrie 2 (2A ENSAE, 2017-2018)
+Sujet de tutoriel pour le projet d'Econométrie 2 (2A ENSAE, 2018-2019)
 
-Date de rendu : mercredi 30 mai 2018, 18h,
+Date de rendu : vendredi 17 mai 2019, 18h,
                 à jeremy.l.hour@ensae.fr.
                 Envoyer les réponses rédigées ET le code.
